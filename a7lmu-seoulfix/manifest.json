@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "SCENERY",
+  "title": "Seoul Fix",
+  "manufacturer": "",
+  "creator": "Lee Min-su",
+  "package_version": "0.7.0",
+  "minimum_game_version": "1.29.28",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "VERSION 0.7.0 RELEASED NOVEMBER 12, 2022\\n\"40th Anniversary Update\"\n\n- Lotte World Tower improvement ( WIP: Night Textures)\n- Gyeongbokgung 3D Model Is Almost Completed ( Missing Textures )\n- Terraforming Around Jamsil-dong, Yeoui-dong, ",
+      "OlderHistory": ""
+    }
+  }
+}

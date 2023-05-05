@@ -1,0 +1,70 @@
+{
+  "package-name": "a7lmu-seoulfix",
+  "items": [
+    {
+      "type": "Poi",
+      "content": "{0A1E46EC-5E55-488A-A141-6AB206B1CE87}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{ED1CF8F7-4B4E-40F8-80F5-4F83E1B8E595}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{9B863938-F91F-4047-BB77-40DE7D722861}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{3819CC1A-E938-4C36-A3EE-7254C14E49BF}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{32C1EE06-3402-4ACE-900F-2926F5E5687F}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{8D605F15-F161-4E18-81FB-D1666718A4FD}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{109BC3DB-B559-4791-8F78-1DA0EC4FAB54}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{A1C0BB56-25F8-4589-B08B-C21C301C3AEB}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{80568722-5616-4C9D-A877-D55A131D2A61}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{C4F3CD92-F17C-42C5-AC29-40C1C03C32F1}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{E6DC8BF4-B1FE-4B9F-B78F-82428E93C851}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{6844A329-6C2F-45EC-8961-C80913368E38}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{9584F56E-D8C7-4B33-9752-6D93F977982E}",
+      "revision": 1
+    }
+  ]
+}
